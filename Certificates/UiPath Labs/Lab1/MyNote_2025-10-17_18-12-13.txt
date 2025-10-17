@@ -1,0 +1,5 @@
+Temp: 82
+
+Humidity: 35%
+
+Status: مشمس
