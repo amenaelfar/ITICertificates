@@ -1,0 +1,21 @@
+Movie Number 1 : 
+Name: The Godfather
+Year : (1972)
+Rate: 97%
+__________Movie Number 2 : 
+Name: Casablanca
+Year : (1942)
+Rate: 99%
+__________Movie Number 3 : 
+Name: L.A. Confidential
+Year : (1997)
+Rate: 99%
+__________Movie Number 4 : 
+Name: Seven Samurai
+Year : (1954)
+Rate: 100%
+__________Movie Number 5 : 
+Name: Parasite
+Year : (2019)
+Rate: 99%
+__________
